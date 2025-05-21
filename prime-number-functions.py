@@ -41,3 +41,6 @@ def mcd(a, b):
         a, b = b, a % b
     
     return a
+
+class prime:
+    pass # Still in development
